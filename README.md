@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=IBM&color=steelblue&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&color=gold&logoColor=blue"/></a> &nbsp
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&color=salmon&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&color=orange&logoColor=black"/></a> &nbsp
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&color=lightpink&logoColor=black"/></a> &nbsp
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&color=grey&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/SAS-3766AB?style=flat-square&logo=SAS&color=plum&logoColor="/></a> &nbsp
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&color=lightblue&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&color=lightpink&logoColor=black"/></a> &nbsp

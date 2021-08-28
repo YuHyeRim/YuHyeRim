@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=This%20is%20Hye%20Rim&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=This%20is%20Hye%20Rim&fontSize=80)
 
 <h3 align="center"><b>💕 Skills 💕</b></h3>
 </br>

@@ -10,7 +10,6 @@ Currently I 'm self studing deep learning and NLP.
 My goal is creating AI system which can understand human's inner self and hit everyone's fancy.
 
 
-
 <!--
 **YuHyeRim/YuHyeRim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

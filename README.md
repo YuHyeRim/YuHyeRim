@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Hi there!
-I'm hye rim, Data-Analyst growing in real time.
-I have majored statistics, and my sub major is ecnomics.
+Hi there!	
+I'm hye rim, Data-Analyst growing in real time.	
+I have majored statistics, and my sub major is ecnomics.	
 Also, I have participated in Big-data academy for 2 years and my role is a vice-chairman now.
 
-The main concern is Human Centered Interaction (HCI) and I believe the potential of interaction between human and data. 
-Currently I 'm self studing deep learning and NLP.
+The main concern is Human Centered Interaction (HCI) and I believe the potential of interaction between human and data. 	
+Currently I 'm self studing Deep Learning and NLP.	
 My goal is creating AI system which can understand human's inner self and hit everyone's fancy.
 
 

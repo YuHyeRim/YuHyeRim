@@ -7,7 +7,7 @@ Also, I have participated in Big-data academy for 2 years and my role is a vice-
 
 My main concern is Human Centered Interaction (HCI) and I believe the potential of interaction between human and data. 	
 Currently I 'm self studing Deep Learning and NLP.	
-My goal is creating AI system which can understand human's inner self and hit everyone's fancy.
+My goal is creating AI system which can understand human's inner side and hit everyone's fancy.
 
 
 <!--

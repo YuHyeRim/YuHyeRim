@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 ### Projects
 
 I have been conducted 10 data based projects and published 7 research papers.
-#Statistics #Machine-Learning #Deep-Learning #Computer-Vision #Object-Detection #NLP #Service-Design
+
+##### Keywords : #Statistics #Machine-Learning #Deep-Learning #Computer-Vision #Object-Detection #NLP #Service-Design
 
 #### 📊 Data based Projects
 * Real estate sale price prediction using residential information

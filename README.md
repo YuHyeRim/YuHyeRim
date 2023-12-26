@@ -21,6 +21,28 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=This%20is%20Hye%20Rim&fontSize=80)
 
+
+### Projects
+
+I have been conducted 10 data based projects and published 7 research papers.
+
+#### Data based Projects
+* Real estate sale price prediction using residential information
+* Fire occurrence prediction using topographic information
+* Life expectancy prediction using national population and health data
+* prediction stock price volatility based on time series analysis techniques
+* Cafeteria meal attendance prediction based on text mining techniques
+* AI-Based subscription messenger service renovation project
+* The Multifacetted Review : A comparative analysis of online gane reviews
+* Development of customized data infrastructure and content matching software for a Korean OTT contents
+
+#### Research Papers
+* [A Harmless webtoon for all : An automatic age-restriction
+prediction system for webtoon contents](https://doi.org/10.1016/j.tele.2022.101906)
+
+* 
+
+
 <h3 align="center"><b>💕 Skills 💕</b></h3>
 </br>
 <p align="center">

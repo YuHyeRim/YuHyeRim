@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 ### Projects
 
 I have been conducted 10 data based projects and published 7 research papers.
+#Statistics #Machine-Learning #Deep-Learning #Computer-Vision #Object-Detection #NLP #Service-Design
 
-#### Data based Projects
+#### 📊 Data based Projects
 * Real estate sale price prediction using residential information
 * Fire occurrence prediction using topographic information
 * Life expectancy prediction using national population and health data
@@ -36,11 +37,25 @@ I have been conducted 10 data based projects and published 7 research papers.
 * The Multifacetted Review : A comparative analysis of online gane reviews
 * Development of customized data infrastructure and content matching software for a Korean OTT contents
 
-#### Research Papers
-* [A Harmless webtoon for all : An automatic age-restriction
-prediction system for webtoon contents](https://doi.org/10.1016/j.tele.2022.101906)
+#### 📝 Research Papers (Journal)
+* [A Harmless webtoon for all : An automatic age-restriction prediction system for webtoon contents](https://doi.org/10.1016/j.tele.2022.101906)
 
-* 
+* [Computational analysis of a collaboration network on humancomputer interaction in Korea](https://www.aimspress.com/aimspress-data/mbe/2022/12/PDF/mbe-19-12-648.pdf)
+
+* Micro-Locational Fine Dust Prediction Utilizing Machine Learning and Deep Learning Models (Accepted)
+
+* [Public perspective on renewable and other energy resources: Evidence from social media big data and sentiment analysis](https://doi.org/10.1016/j.esr.2023.101243)
+
+
+#### 📝 Research Papers (Conference)
+* KSC2022 : [A Study on Building Ground Penetrating Radar Data and Artificial Intelligence-based Cavity Detection](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11224084)
+
+* ICTC2023 : Towards a Lightweight Object Detection through Model Pruning Approaches
+
+
+
+
+
 
 
 <h3 align="center"><b>💕 Skills 💕</b></h3>

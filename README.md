@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <!--![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=This%20is%20Hye%20Rim&fontSize=80)-->
 
-### 🎓 Scholar
-- Bachelor's degree : Dongguk university (Major : Statistics & Dual major : Economics)
-- Master's degree : Sungkyunkwan university (Major : Interaction Science)
-- Lab : DxLab
+<!-- ### 🎓 Scholar -->
+<!-- - Bachelor's degree : Dongguk university (Major : Statistics & Dual major : Economics)-->
+<!-- - Master's degree : Sungkyunkwan university (Major : Interaction Science) -->
+<!-- - Lab : DxLab -->
 
 ### 👩🏻‍💻 Projects
 

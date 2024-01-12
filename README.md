@@ -47,7 +47,7 @@ I have been conducted 10 data based projects and published 7 research papers.
 
 * [Public perspective on renewable and other energy resources: Evidence from social media big data and sentiment analysis](https://doi.org/10.1016/j.esr.2023.101243)
 
-* (To be updated) Leveraging Music Recommendation : An empirical study
+<!-- * (To be updated) Leveraging Music Recommendation : An empirical study -->
 
 
 #### 📝 Research Papers (Conference)

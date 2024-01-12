@@ -32,7 +32,7 @@ I have been conducted 10 data based projects and published 7 research papers.
 * Real estate sale price prediction using residential information
 * Fire occurrence prediction using topographic information
 * Life expectancy prediction using national population and health data
-* prediction stock price volatility based on time series analysis techniques
+* Prediction stock price volatility based on time series analysis techniques
 * Cafeteria meal attendance prediction based on text mining techniques
 * AI-Based subscription messenger service renovation project
 * The Multifacetted Review : A comparative analysis of online gane reviews
@@ -46,6 +46,8 @@ I have been conducted 10 data based projects and published 7 research papers.
 * Micro-Locational Fine Dust Prediction Utilizing Machine Learning and Deep Learning Models (Accepted)
 
 * [Public perspective on renewable and other energy resources: Evidence from social media big data and sentiment analysis](https://doi.org/10.1016/j.esr.2023.101243)
+
+* (To be updated) Leveraging Music Recommendation : An empirical study
 
 
 #### 📝 Research Papers (Conference)

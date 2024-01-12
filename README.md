@@ -49,9 +49,9 @@ I have been conducted 10 data based projects and published 7 research papers.
 
 
 #### 📝 Research Papers (Conference)
-* KSC2022 : [A Study on Building Ground Penetrating Radar Data and Artificial Intelligence-based Cavity Detection](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11224084)
+* **KSC2022** : [A Study on Building Ground Penetrating Radar Data and Artificial Intelligence-based Cavity Detection](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11224084)
 
-* ICTC2023 : Towards a Lightweight Object Detection through Model Pruning Approaches
+* **ICTC2023** : Towards a Lightweight Object Detection through Model Pruning Approaches
 
 
 

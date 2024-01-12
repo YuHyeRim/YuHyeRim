@@ -57,7 +57,7 @@ I have been conducted 10 data based projects and published 7 research papers.
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhr6317)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

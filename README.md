@@ -70,4 +70,4 @@ I have been conducted 10 data based projects and published 7 research papers.
 <img src="https://img.shields.io/badge/SAS-3766AB?style=flat-square&logo=SAS&color=plum&logoColor="/></a> &nbsp
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&color=lightblue&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&color=lightpink&logoColor=black"/></a> &nbsp
-<img src="https://img.shields.io/badge/Figma-#F24E1E?style=flat-square&logo=Figma&color=pink&logoColor=black"/></a> &nbsp
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&color=pink&logoColor=black"/></a> &nbsp

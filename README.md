@@ -58,7 +58,7 @@ I have been conducted 10 data based projects and published 7 research papers.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuHyeRim)](https://github.com/YuHyeRim/github-readme-stats)
-
+![Heriiimioneee's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuHyeRim&show_icons=true&theme=radical)
 
 
 <h3 align="center"><b>💕 Skills 💕</b></h3>
